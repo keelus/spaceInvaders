@@ -1,0 +1,75 @@
+{
+    "es":{
+        
+            "autor":"por Kelus",
+            "boton_jugar":"JUGAR",
+            "boton_salir":"SALIR",
+            "puntos":"puntos",
+            "puntuacion":"puntuacion",
+            "vida":"vida",
+            "vidas":"vidas",
+            "texto_gover":"fin del juego",
+            "texto_reintentar":"Pulsa <3> para reintentar",
+            "texto_salir":"Pulsa <4> para salir"
+    },
+    "en":{
+            "autor":"by Kelus",
+            "boton_jugar":"PLAY",
+            "boton_salir":"EXIT",
+            "puntos":"points",
+            "puntuacion":"score",
+            "vida":"life",
+            "vidas":"lives",
+            "texto_gover":"GAME OVER",
+            "texto_reintentar":"Press <3> to retry",
+            "texto_salir":"Press <4> to exit"
+    },
+    "fr":{
+            "autor":"par Kelus",
+            "boton_jugar":"jouer",
+            "boton_salir":"quitter",
+            "puntos":"points",
+            "puntuacion":"score",
+            "vida":"vie",
+            "vidas":"vies",
+            "texto_gover":"GAME OVER",
+            "texto_reintentar":"appuyez sur <3> pour reessayer",
+            "texto_salir":"appuyez sur <4> pour quitter"
+    },
+    "de":{
+            "autor":"von Kelus",
+            "boton_jugar":"spielen",
+            "boton_salir":"beenden",
+            "puntos":"punkte",
+            "puntuacion":"punktzahl",
+            "vida":"leben",
+            "vidas":"leben",
+            "texto_gover":"SPIEL VORBEI",
+            "texto_reintentar":"Drucke <3> um wiederholen",
+            "texto_salir":"Drucke <4> um beenden"
+    },
+    "it":{
+            "autor":"da Kelus",
+            "boton_jugar":"gioca",
+            "boton_salir":"uscire",
+            "puntos":"punti",
+            "puntuacion":"punteggio",
+            "vida":"vita",
+            "vidas":"Vite",
+            "texto_gover":"FINE PARTITA",
+            "texto_reintentar":"premere <3> per riprovare",
+            "texto_salir":"premere <4> per uscire"
+    },
+    "pt":{
+            "autor":"por Kelus",
+            "boton_jugar":"Jogar",
+            "boton_salir":"Sair",
+            "puntos":"pontos",
+            "puntuacion":"Pontuacao",
+            "vida":"vida",
+            "vidas":"vidas",
+            "texto_gover":"fim de jogo",
+            "texto_reintentar":"pressione <3> para tentar novamente",
+            "texto_salir":"pressione <4> para sair"
+    }
+}
