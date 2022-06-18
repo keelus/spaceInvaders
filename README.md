@@ -1,6 +1,6 @@
 # spaceInvaders
  
-# Space Invaders<img src="spaceInvaders - by kelus/assets/github_images/titulo.png" width=20%><img src="spaceInvaders - by kelus/assets/github_images/cs50_logo.jpg" width=8%></img>
+# Space Invaders<img src="assets/github_images/titulo.png" width=20%><img src="assets/github_images/cs50_logo.jpg" width=8%></img>
 ## _Fan game made by kelus for CS50 Final Project_
 <img src="https://tasdikrahman.me/content/images/2016/1/pygame_logo.png" width=10%></img>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -11,7 +11,7 @@ For my CS50 final project, I decided to create a game in python, inspired by the
 
 
 ### Gameplay
-[![Space Invaders by kelus - CS50 Final Project](spaceInvaders%20-%20by%20kelus/assets/github_images/youtube_thumbnail.png)](https://www.youtube.com/watch?v=pLdPxFfJqLU "Space Invaders by kelus - CS50 Final Project")
+[![Space Invaders by kelus - CS50 Final Project](assets/github_images/youtube_thumbnail.png)](https://www.youtube.com/watch?v=pLdPxFfJqLU "Space Invaders by kelus - CS50 Final Project")
 ### Technology
 For this project, I used python, along with the _pygame_ package. For the art part, I used some sprites and sounds from the original videogame, but also created other's myself. To reduce the file sizes and structure, I decided to put them all together into a spritesheet.
 
@@ -20,11 +20,11 @@ You can create your own alien wave by changing `MATRIZ` variable in the code, li
 
 `MATRIZ = [11,[["C0"],["C1"],["C1"],["P"],["P"]]]` would create the following:
 
-<img src="spaceInvaders - by kelus/assets/github_images/matriz_0.png" width=200>
+<img src="assets/github_images/matriz_0.png" width=200>
 
 While, for example, `MATRIZ = [5,[["P"],["C1"],["C1"],["C1"],["C1"]]]` would make the alien wave look like this:
 
-<img src="spaceInvaders - by kelus/assets/github_images/matriz_1.png" width=200>
+<img src="assets/github_images/matriz_1.png" width=200>
 
 ```diff
 -IMPORTANT: Any non empty matrix will work, as long as it's not too wide and too long, which would make the game instantly crash because of the limited space of the window canvas.
@@ -35,7 +35,7 @@ While, for example, `MATRIZ = [5,[["P"],["C1"],["C1"],["C1"],["C1"]]]` would mak
 I really wanted to translate this game into some different languages (it's originally in English, but since it has few words, I decided to translate it).
 To make the process easier, I used [_Polyglot Gamedev Project's Language master sheet_](https://docs.google.com/spreadsheets/d/17f0dQawb-s_Fd7DHgmVvJoEGDMH_yoSd8EYigrb0zmM/edit#gid=310116733), which was very helpful. I finally translated the game into:
 
-<img src="spaceInvaders - by kelus/assets/github_images/banderas.png" width=200></img>
+<img src="assets/github_images/banderas.png" width=200></img>
 >Spanish, English, French, German, Italian, and Portuguese/Brazilian
 
 ### Requeriments & execution
@@ -55,15 +55,15 @@ To play the game, go to the game's folder location `"spaceInvaders - by kelus"`,
 * If you get hit by a laser you will lose 1 life.
 * If the aliens get very close to you, the game will be over.
 * You get points from killing aliens. The score for each one is:
-  * <img src="spaceInvaders - by kelus/assets/github_images/alien0.gif" /> + **10 POINTS**
-  * <img src="spaceInvaders - by kelus/assets/github_images/alien1.gif" /> + **20 POINTS**
-  * <img src="spaceInvaders - by kelus/assets/github_images/alien2.gif" /> + **30 POINTS**
-  * <img src="spaceInvaders - by kelus/assets/github_images/alien3.png" /> + **?? POINTS**
+  * <img src="assets/github_images/alien0.gif" /> + **10 POINTS**
+  * <img src="assets/github_images/alien1.gif" /> + **20 POINTS**
+  * <img src="assets/github_images/alien2.gif" /> + **30 POINTS**
+  * <img src="assets/github_images/alien3.png" /> + **?? POINTS**
 * Your objetive in this game is to get the highest amount of points possible.
 * If you kill all the aliens, you will continue playing with a new wave, repeatedly until the game is over (once you lose all lives).
 
 ### Screenshots & video
-<img src="spaceInvaders - by kelus/assets/github_images/screenshot_0.jpeg" width=50%/><img src="spaceInvaders - by kelus/assets/github_images/screenshot_1.jpeg" width=50%/>
+<img src="assets/github_images/screenshot_0.jpeg" width=50%/><img src="assets/github_images/screenshot_1.jpeg" width=50%/>
 
 ### Tools & other sources
 * [Aseprite](https://www.aseprite.org/) - Used to modify and create some sprites for the game.
