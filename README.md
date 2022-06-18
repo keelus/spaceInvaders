@@ -11,7 +11,7 @@ For my CS50 final project, I decided to create a game in python, inspired by the
 
 
 ### Gameplay
-[![Space Invaders by kelus - CS50 Final Project](aassets/github_images/youtube_thumbnail.png)](https://www.youtube.com/watch?v=pLdPxFfJqLU "Space Invaders by kelus - CS50 Final Project")
+[![Space Invaders by kelus - CS50 Final Project](assets/github_images/youtube_thumbnail.png)](https://www.youtube.com/watch?v=pLdPxFfJqLU "Space Invaders by kelus - CS50 Final Project")
 ### Technology
 For this project, I used python, along with the _pygame_ package. For the art part, I used some sprites and sounds from the original videogame, but also created other's myself. To reduce the file sizes and structure, I decided to put them all together into a spritesheet.
 
